@@ -1,0 +1,7 @@
+1. Створимо config.ini
+2. Створимо зєднання з базою Mongodb connect.py
+3. Створимо модель для контактів файл model.py
+4. Заповнимо даними цю модель файл seed.py
+5. Робимо файл producer.py де підключаємось ло Rebbit MQ
+6. Робимо файл consumer_sms.py
+7. Робимо файл consumer_email.py
